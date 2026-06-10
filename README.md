@@ -4,7 +4,7 @@
 
 <br>
 
-[![Visits](https://visitcount.itsvg.in/api?id=MxnuGvddia&icon=5&color=6)](https://github.com/MxnuGvddia)
+
 [![Website](https://img.shields.io/badge/WEBSITE-764ba2?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://mxnugvddia.github.io)
 [![Email](https://img.shields.io/badge/EMAIL-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mxnugvddia@gmail.com)
 [![Instagram](https://img.shields.io/badge/IG-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mxnu_gvddia)
