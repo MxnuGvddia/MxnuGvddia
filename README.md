@@ -72,7 +72,6 @@
 |:--|:--|:--|
 | 🎮 **[HYPERION OS](https://github.com/MxnuGvddia/hyperion)** | Game Launcher & Spatial Dashboard | `Electron` `Three.js` `JS` |
 | 🖥️ **[DRIVEMG]** — *3D Desktop* | Gemini AI + Google Drive | `Python` `C++` `Three.js` |
-| 📚 **[CEAP Virtual](https://github.com/MxnuGvddia/ceap-virtual)** | Plataforma educativa | `React` `Node.js` |
 | 🎯 **[CODE ART Online](https://github.com/MxnuGvddia/CODE-ART-ONLINE)** | Aprende código jugando | `HTML` `CSS` `JS` |
 | 🛠️ **[HYPERION Tools](https://mxnugvddia.github.io/herramientas/)** | Suite de herramientas online | `JS` `Three.js` |
 | 🔫 **Ghost Ops** | Tactical FPS | `Godot 4` `GDScript` |
